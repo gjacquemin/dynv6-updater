@@ -1,5 +1,5 @@
-# Object file
-*.o
+# MacOS
+.DS_Store
 
-# Ada Library Information
-*.ali
+# Tokens
+token.*
